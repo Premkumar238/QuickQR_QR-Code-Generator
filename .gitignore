@@ -1,0 +1,11 @@
+# generated QR images
+qr_codes/
+
+# python cache
+__pycache__/
+*.pyc
+
+# virtual envs
+venv/
+.venv/
+env/
