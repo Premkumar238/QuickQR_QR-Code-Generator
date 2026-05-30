@@ -4,7 +4,6 @@ QuickQR is a small Python app that turns a **website**, an **app link**, or a
 **WhatsApp** chat into a scannable QR code. You can use it as a desktop app with
 a simple window, or straight from the command line.
 
----
 
 ## What it does
 
